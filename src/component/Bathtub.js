@@ -1,11 +1,14 @@
+import logosvg from "./img/Footer.svg";
+import socialmedia from "./img/SocialMedia.png";
+
 const Bathtub = (props) => {
   return (
     <section className={props.class}>
       <div>
-        <img src="/img/Footer.svg" alt="footerlogo" />
+        <img src={logosvg} alt="footerlogo" />
       </div>
       <div>
-        <img src="/img/SocialMedia.png" alt="socialmedia" />
+        <img src={socialmedia} alt="socialmedia" />
       </div>
     </section>
   );

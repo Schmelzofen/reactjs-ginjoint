@@ -6,6 +6,9 @@ import DoubleSection from "./component/DoubleSection";
 import FooterBar from "./component/FooterBar";
 import Bathtub from "./component/Bathtub";
 
+import bathtubimg from "./component/img/bathtubgin.png";
+import drinksimg from "./component/img/drinks.png";
+
 import "./App.scss";
 
 function App() {
@@ -21,7 +24,7 @@ function App() {
           'Gin was the predominant drink in the United States during the Prohibition-Era 1920`s and many variations were created. "Bathtub gin" was developed in response to the poor-quality of alcohol that was available at the time.'
         }
         button={"Read More"}
-        image={"/img/bathtubgin.png"}
+        image={bathtubimg}
       />
       <Gallery class={"Gallery"} />
       <SectionComponent
@@ -32,7 +35,7 @@ function App() {
           "We mix our gin and other spirits with the finest and freshest fruits, juices, syrups and infusions in cocktails inspired by original recipes."
         }
         button={"See Menus"}
-        image={"/img/drinks.png"}
+        image={drinksimg}
       />
       <DoubleSection class={"DoubleSection"} />
       <FooterBar class={"FooterBar"} />

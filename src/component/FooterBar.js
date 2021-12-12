@@ -1,3 +1,5 @@
+import logoimg from "./img/Logo.png";
+
 const FooterBarElement = (props) => {
   return (
     <ul>
@@ -14,7 +16,7 @@ const FooterBar = (props) => {
   return (
     <section className={props.class}>
       <div>
-        <img src="/img/Logo.png" alt="logo" />
+        <img src={logoimg} alt="logo" />
       </div>
       <FooterBarElement
         title={"FIND US"}
