@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs-ginjoint/static/css/main.ea7bb6ec.chunk.css",
+    "main.js": "/reactjs-ginjoint/static/js/main.33626b0d.chunk.js",
+    "main.js.map": "/reactjs-ginjoint/static/js/main.33626b0d.chunk.js.map",
+    "runtime-main.js": "/reactjs-ginjoint/static/js/runtime-main.085f5950.js",
+    "runtime-main.js.map": "/reactjs-ginjoint/static/js/runtime-main.085f5950.js.map",
+    "static/js/2.3d7b4481.chunk.js": "/reactjs-ginjoint/static/js/2.3d7b4481.chunk.js",
+    "static/js/2.3d7b4481.chunk.js.map": "/reactjs-ginjoint/static/js/2.3d7b4481.chunk.js.map",
+    "static/js/3.d95e2c5f.chunk.js": "/reactjs-ginjoint/static/js/3.d95e2c5f.chunk.js",
+    "static/js/3.d95e2c5f.chunk.js.map": "/reactjs-ginjoint/static/js/3.d95e2c5f.chunk.js.map",
+    "index.html": "/reactjs-ginjoint/index.html",
+    "static/css/main.ea7bb6ec.chunk.css.map": "/reactjs-ginjoint/static/css/main.ea7bb6ec.chunk.css.map",
+    "static/js/2.3d7b4481.chunk.js.LICENSE.txt": "/reactjs-ginjoint/static/js/2.3d7b4481.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/reactjs-ginjoint/static/media/Rectangle3.8087e487.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085f5950.js",
+    "static/js/2.3d7b4481.chunk.js",
+    "static/css/main.ea7bb6ec.chunk.css",
+    "static/js/main.33626b0d.chunk.js"
+  ]
+}
